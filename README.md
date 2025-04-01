@@ -1,5 +1,5 @@
 # 🚀 Imersão Dev 9 - Alura  
-Projeto desenvolvido durante a **Imersão Dev 9** da Alura, com foco em aprendizado prático de **HTML, CSS e JavaScript**.
+Projetos desenvolvidos durante a **Imersão Dev 9** da Alura, com foco em aprendizado prático de **HTML, CSS e JavaScript**.
 
 ## 📌 Sobre o Projeto  
 Este repositório contém a implementação de **Minigames/projetos feitos durante as aulas**, totalmente interativos e funcionais.  
