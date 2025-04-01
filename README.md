@@ -2,7 +2,7 @@
 Projeto desenvolvido durante a **Imersão Dev 9** da Alura, com foco em aprendizado prático de **HTML, CSS e JavaScript**.
 
 ## 📌 Sobre o Projeto  
-Este repositório contém a implementação de**Minigames/projetos feitos durante as aulas**, totalmente interativos e funcionais.  
+Este repositório contém a implementação de **Minigames/projetos feitos durante as aulas**, totalmente interativos e funcionais.  
 
 ### ✨ Tecnologias Utilizadas  
 - **HTML** → Estrutura dos projetos.  
