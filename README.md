@@ -6,7 +6,7 @@ Este repositório contém a implementação de um **Minigames/projetos feitos du
 
 ### ✨ Tecnologias Utilizadas  
 - **HTML** → Estrutura dos projetos.  
-- **CSS** → Estilização e responsividade.  
+- **CSS** → Estilização.  
 - **JavaScript** → Lógica dos projetos e manipulação de eventos.  
 
 ## 🎮 Acesse 
