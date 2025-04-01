@@ -1,0 +1,41 @@
+body{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg, red, purple, blue);
+    height: 75vh;
+    width: 90vw;
+    background-size: cover;
+    
+}
+
+.game{
+    background-color: rgba(206, 201, 201, 0.425);
+    opacity: 0.9;
+    width: 300px;
+    height: 180px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 39%;
+    margin-top: 13%;
+}
+
+button{
+    background-color: rgb(241, 11, 50);
+    border-radius: 5%;
+    width: 90px;
+    height: 40px;
+    color: aliceblue;
+    opacity: 0.9;
+    border: none;
+}
+
+button:hover{
+    background-color: aliceblue;
+    color: rgb(43, 42, 42);
+    transition: 0.4s;
+    border: none;
+}
+

@@ -1,0 +1,23 @@
+Jogo pedra papel e tesoura
+que consiste em condições if/else que se:
+
+Se escolher pedra (e cair):
+
+-Papel - perde
+
+-Tesoura - vence
+
+Se escolher papel (e cair):
+
+-Pedra - vence
+
+-Tesoura - perde
+
+Se escolher tesoura (e cair):
+
+-Papel - vence
+
+-Pedra - perde
+
+Imprimirá um alerta falando os resultados
+
