@@ -7,9 +7,9 @@ Este repositório contém a implementação de um **Minigames/projetos feitos du
 ### ✨ Tecnologias Utilizadas  
 - **HTML** → Estrutura dos projetos.  
 - **CSS** → Estilização e responsividade.  
-- **JavaScript** → Lógica do jogo e manipulação de eventos.  
+- **JavaScript** → Lógica dos projetos e manipulação de eventos.  
 
 ## 🎮 Acesse 
-1. **Clone o repositório** usando:  
+Acesse nesse link:  
    ```bash
    git clone https://github.com/BeknYTprogamador/Imersao-dev9
