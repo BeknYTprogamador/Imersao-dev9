@@ -10,6 +10,6 @@ Este repositório contém a implementação de um **Minigames/projetos feitos du
 - **JavaScript** → Lógica dos projetos e manipulação de eventos.  
 
 ## 🎮 Acesse 
-Acesse nesse link**Clone o repositório** usando:  
+Acesse nesse link o **Clone o repositório** usando:  
    ```bash
    git clone https://github.com/BeknYTprogamador/Imersao-dev9
