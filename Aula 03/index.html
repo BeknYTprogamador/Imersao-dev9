@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saymon Man: Nexus Combat</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="game">
+        <h2>Saymon Man: Está pronto para o torneio?</h2>
+        <button onclick="startGame()">Sim</button>
+        <button onclick="exitGame()">Não</button>
+    </div>
+
+    <div id="character-selection" style="display: none;">
+        <h2>Escolha seu estilo de batalha</h2>
+        
+        <button class="battle-btn" onclick="chooseBattle('tiros')">Batalha de Tiros</button>
+        <button class="battle-btn" onclick="chooseBattle('boxe')">Batalha de Boxe</button>
+    </div>
+
+    <div id="battle-arena" style="display: none;">
+        <h2 id="battle-title"></h2>
+        <p id="narration"></p>
+        <div id="action-buttons"></div>
+    </div>
+
+    <div class="Credits">
+        <h2>Conteúdo do projeto baseado em:</h2>
+        <a href="https://www.spiritfanfiction.com/historia/saymon-man-zero-capitulo-1-25955347" class="spirit-embed" data-width="560" data-height="315">Fanfic Saymon Man Zero: Capítulo 1</a><script type="text/javascript" src="https://static.spiritfanfiction.com/js/embed.js"></script>
+        <p>Ideia do projeto (Imersão dev da Alura)</p>
+    </div>
+
+<script src="script.js"></script>
+</body>
+</html>

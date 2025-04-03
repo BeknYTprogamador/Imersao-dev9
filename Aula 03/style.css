@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f3f3;
+    color: #121212;
+    text-align: center;
+}
+
+button {
+    background-color: #0e978c;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #096d65;
+
+}
+
+.battle-btn {
+    font-size: 18px;
+    padding: 15px;
+}

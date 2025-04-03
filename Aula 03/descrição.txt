@@ -1,0 +1,12 @@
+Criar um jogo que as escolhas moldam o final baseados em prompt ou label para isso
+
+Introdução:
+
+Escolha um personagem (Intereção quando chegar perto de um botão com a foto dos personagens vai aparecer a bio deles)
+
+Após escolher um dos personagens aparecerá uma sinopse/apresentação do que é esse torneio e do que é a Nexus
+
+A partir daí apareceram perguntas/descisões com as supostas escolhas 
+
+Gênero: Ação, Narrativa Fantasiosa
+
