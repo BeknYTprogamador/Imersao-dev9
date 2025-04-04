@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cabo de Guerra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>💪 Cabo de Guerra: Escolha seus competidores!</h1>
+
+    <div id="setup">
+        <p>Escreva o nome dos membros da sua equipe:</p>
+        <input type="text" id="player1" placeholder="Nome do jogador 1">
+        <input type="text" id="player2" placeholder="Nome do jogador 2">
+        <input type="text" id="player3" placeholder="Nome do jogador 3">
+        <button onclick="setupTeams()">Confirmar Equipe</button>
+    </div>
+
+    <p id="game-status"></p>
+
+    <div id="rope-container">
+        <div id="rope"></div>
+    </div>
+
+    <button onclick="pullRope()">Puxar Corda!</button>
+
+    <div id="image-container"></div> <!-- Local onde a imagem de derrota aparecerá -->
+
+    <p>Projeto Aula 04 (Imersão Dev 9 da Alura)</p>
+    <p>Conteúdo do Projeto baseado em:</p>
+    <a href="https://www.spiritfanfiction.com/historia/saymon-man-zero-capitulo-1-25955347" class="spirit-embed" data-width="560" data-height="315">Fanfic Saymon Man Zero: Capítulo 1</a><script type="text/javascript" src="https://static.spiritfanfiction.com/js/embed.js"></script>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

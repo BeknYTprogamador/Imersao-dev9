@@ -1,0 +1,15 @@
+Uma barra que seria a corda vai ser puxada pra mudar a direção do background #rope
+mudando a direção clicando o botão até chegar no final da div. 
+
+(esquerda/direita dependendo do time)
+
+Time do Jogador: Esquerda 
+[O jogador escolhe os nomes ] num Array
+
+Time do computador: Direita
+
+[Os nomes são escolhidos]
+
+
+
+

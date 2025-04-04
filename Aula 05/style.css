@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f4f4f4;
+    color: #333;
+    padding: 0; /* Removendo o padding inicial */
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    min-height: 100vh; /* Garante que o body ocupe a altura total da tela */
+}
+
+.quiz-container {
+    width: 90%; /* Adapta à largura da tela */
+    max-width: 500px; /* Limita o tamanho no desktop */
+    height: auto; /* Altura automática para conteúdo variável */
+    background: white;
+    padding: 20px; /* Ajuste de padding para dispositivos menores */
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column; /* Mantém a estrutura vertical */
+    justify-content: center;
+    align-items: center;
+}
+
+.question {
+    font-size: 1.2em;
+    margin-bottom: 20px; /* Adiciona espaçamento inferior */
+    text-align: center;
+}
+
+.answer-btn {
+    display: block;
+    width: 100%; /* Botões ocupam toda a largura disponível */
+    max-width: 400px; /* Limita o tamanho dos botões */
+    margin: 10px 0; /* Espaçamento entre os botões */
+    padding: 12px; /* Mais espaço nos botões para toque em telas pequenas */
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.answer-btn:hover {
+    background-color: #ddd;
+    transform: scale(1.05); /* Pequeno efeito de "zoom" ao passar o mouse */
+}
+
+.answer-btn.correct {
+    background-color: #4CAF50; /* Verde para respostas corretas */
+    color: white;
+}
+
+.answer-btn.wrong {
+    background-color: #F44336; /* Vermelho para respostas erradas */
+    color: white;
+}
+
+/* Responsividade para telas menores (tablets e celulares) */
+@media screen and (max-width: 768px) {
+    .quiz-container {
+        padding: 15px; /* Reduz o padding em dispositivos menores */
+    }
+
+    .question {
+        font-size: 1.1em; /* Reduz o tamanho da fonte */
+    }
+
+    .answer-btn {
+        font-size: 0.9em; /* Botões ajustados */
+        padding: 10px; /* Menor padding para telas menores */
+    }
+}
+
+/* Responsividade para celulares (max-width: 480px) */
+@media screen and (max-width: 480px) {
+    .quiz-container {
+        width: 100%; /* O container ocupa 100% da largura */
+        height: 100vh; /* O container preenche toda a altura da tela */
+        padding: 10px; /* Reduz o padding para caber melhor */
+        border-radius: 0; /* Remove bordas arredondadas para preencher totalmente */
+        box-shadow: none; /* Remove a sombra para simplificar o design */
+    }
+
+    .question {
+        font-size: 1.2em; /* Mantém a fonte legível em telas pequenas */
+    }
+
+    .answer-btn {
+        font-size: 1em;
+        padding: 12px;
+        margin: 10px 0; /* Espaçamento confortável entre os botões */
+    }
+}
