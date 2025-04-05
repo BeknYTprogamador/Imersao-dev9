@@ -1,3 +1,5 @@
+<img src="Readme-Alura.png">
+
 # 🚀 Imersão Dev 9 - Alura  
 Projetos desenvolvidos durante a **Imersão Dev 9** da Alura, com foco em aprendizado prático de **HTML, CSS e JavaScript**.
 
