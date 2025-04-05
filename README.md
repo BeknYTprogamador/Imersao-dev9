@@ -12,6 +12,6 @@ Este repositório contém a implementação de **Minigames/projetos feitos duran
 - **JavaScript** → Lógica dos projetos e manipulação de eventos.  
 
 ## 👨‍💻 Créditos  
-- **Criado por:** [BeknYTprogamador](https://github.com/BeknYTprogamador)  
+- **Criados por:** [BeknYTprogamador](https://github.com/BeknYTprogamador)  
 - **Thumbnail por:** [SaymonS86](https://github.com/SaymonS86)  
 - **Baseado nos aprendizados da Imersão Dev 9 - Alura**  
